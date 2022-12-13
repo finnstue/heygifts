@@ -6,7 +6,6 @@
   margin: 0;
 	padding: 0;
   box-sizing: border-box;
-  font-smoothing: antialiased;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 }
@@ -163,7 +162,6 @@ img {
 	color: black;
   white-space: nowrap;
 	border: none;
-	-webkit-appearance: none;
 	cursor: pointer;
 }
 .button__full {
