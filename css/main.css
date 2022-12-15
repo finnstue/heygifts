@@ -150,6 +150,12 @@ img {
   position: relative;
 }
 
+.section2 {
+  padding: 30px 0;
+  overflow: hidden;
+  position: relative;
+}
+
 /*button*/
 .button {
 	display: inline-block;
